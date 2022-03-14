@@ -1,4 +1,4 @@
-package Loop;
+// package Loop;
 
 public class DoWhileDiff {
     public static void main(String[]args){
